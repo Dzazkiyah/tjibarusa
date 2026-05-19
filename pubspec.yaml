@@ -1,0 +1,50 @@
+name: tjibarusa
+description: Aplikasi pengenalan daerah Cibarusah, Kabupaten Bekasi.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.3.1
+  flutter_animate: ^4.5.0
+  smooth_page_indicator: ^1.1.0
+  url_launcher: ^6.2.6
+  shared_preferences: ^2.2.3
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.2.0
+  image_picker: ^1.1.0
+  webview_flutter: ^4.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/image1.png
+    - assets/images/image2.png
+    - assets/images/image3.png
+    - assets/images/imagesejarah1.jpg
+    - assets/images/imagesejarah2.png
+    - assets/images/imagebatik1.jpg
+    - assets/images/imagebatik2.png
+    - assets/images/imagewisata1.png
+    - assets/images/imagewisata2.png
+    - assets/images/imagewisata3.png
+    - assets/images/imagekuliner1.webp
+    - assets/images/imagekuliner2.jpg
+    - assets/images/imagekuliner3.webp
+    - assets/images/imageberita1.jpeg
+    - assets/images/imageberita2.jpeg
+    - assets/images/wening.png
+    - assets/images/galih.png
+    - assets/images/motif.png

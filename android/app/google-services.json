@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668248109606",
+    "project_id": "tjibarusa",
+    "storage_bucket": "tjibarusa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668248109606:android:d3bb2ee3e8f47cd26bace7",
+        "android_client_info": {
+          "package_name": "com.example.tjibarusa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgLQCN6KY1jS4v02P14nsYPDewfy_UBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
