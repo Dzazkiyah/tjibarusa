@@ -1,0 +1,1 @@
+ C:\\Tugasbaruempat\\Tjibarusa\\tjibarusa\\.dart_tool\\flutter_build\\255ea73f67d10e1be05e8d2a9bb9ecf2\\native_assets.json: 
