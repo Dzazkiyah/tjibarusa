@@ -1,17 +1,37 @@
-# tjibarusa
+# 🏔️ Tjibarusa
+Aplikasi pengenalan daerah Cibarusah, Kabupaten Bekasi, Jawa Barat.
 
-A new Flutter project.
+**Wilujeung Sumping!** — Jelajahi sejarah, wisata, kuliner, dan budaya Cibarusah dalam satu aplikasi.
 
-## Getting Started
+🌐 **Live Demo** → [dzazkiyah.github.io/tjibarusa](https://dzazkiyah.github.io/tjibarusa/)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
+- 🗺️ Wisata & lokasi menarik di Cibarusah
+- 🍛 Kuliner khas Betawi-Sunda
+- 🏛️ Sejarah & budaya lokal
+- 📰 Berita & event daerah
+- 📍 Check-in wisata + kumpulkan badge
+- 🧠 Kuis pengetahuan sejarah
+- 👤 Profil & statistik kunjungan
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi
+- Flutter & Dart
+- Firebase Authentication
+- Cloud Firestore
+- OpenStreetMap (Leaflet.js)
+
+---
+
+## Cara Menjalankan
+```bash
+git clone https://github.com/Dzazkiyah/tjibarusa.git
+cd tjibarusa
+flutter pub get
+flutter run
+```
+
+---
